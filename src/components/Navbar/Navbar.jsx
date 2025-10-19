@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Menu, X } from "lucide-react"; // icons (install: npm install lucide-react)
+import { Menu, X } from "lucide-react"; 
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className=" text-white shadow-md py-5">
       <div className="container mx-auto flex justify-between items-center px-14 py-3">
-        <h1 className="text-2xl font-bold tracking-wide ">Cheezy Bites Hub</h1>
+        <h1 className="text-2xl font-bold tracking-wide ">Cheezy Bites Hub 🍕</h1>
 
         
         <ul className="hidden md:flex gap-8 text-lg">
