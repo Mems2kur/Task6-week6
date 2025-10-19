@@ -9,9 +9,9 @@ import pizza7 from "../Images/pizza7.jpg";
 import Burger1 from "../Images/Burger1.jpg";
 import Burger2 from "../Images/Burger2.jpg";
 import burger3 from "../Images/burger3.jpg";
-import Burger4 from "../Images/burger4.jpg"; 
-import Burger5 from "../Images/burger5.jpg";
-import Burger6 from "../Images/burger6.jpg";
+import Burger4 from "../Images/Burger4.jpg"; 
+import Burger5 from "../Images/Burger5.jpg";
+import Burger6 from "../Images/Burger6.jpg";
 
 export const cards = [
   { id: 1, image: pizza1, title: "Pepperoni Pizza" },
